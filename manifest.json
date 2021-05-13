@@ -1,0 +1,15 @@
+{
+  "short_name": "Weather App",
+  "name": "Weather App",
+  "icons": [
+    {
+      "src": "/source/sun.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#3367D6",
+  "display": "standalone",
+
+  "theme_color": "#3367D6"
+}
